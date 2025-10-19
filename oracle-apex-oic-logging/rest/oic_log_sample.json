@@ -1,0 +1,6 @@
+{
+    "INTEGRATION_ID": "OIC-Order-Integration-001",
+    "LOG_LEVEL": "ERROR",
+    "LOG_MESSAGE": "Failed to process order due to invalid data.",
+    "CREATED_BY": "oic_service_account"
+}
