@@ -50,3 +50,11 @@ Query the `OIC_LOGS` table in SQL Developer, APEX SQL Workshop, or make a report
 
 - [Oracle APEX Documentation](https://docs.oracle.com/en/database/oracle/application-express/23.1/)
 - [Oracle Integration Cloud REST API](https://docs.oracle.com/en/cloud/paas/integration-cloud/integrations-rest-api/)
+
+## Export File
+- File Name is f104.zip - it can be imported into new APEX application
+- It will help for someone who needs similare functionality and provide a head start
+- Created a sample APEX Export File that shows my application that uses Log tables store OIC integration logs
+- It has Searcha and Create Capbility
+- Various Reports
+- 
